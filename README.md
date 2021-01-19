@@ -22,7 +22,7 @@
    <a href="#develop-">
  <img src="https://shields.io/badge/Develop-red?style=for-the-badge"alt="Develop"></a><br>
     <a href="https://github.com/cachecleanerjeet">
-<img src="https://shields.io/badge/MADE WITH ♥ BY-TUHIN-red?style=for-the-badge"alt="Deploy"></a>
+<img src="https://shields.io/badge/MADE WITH ♥ BY-FAZILVK-red?style=for-the-badge"alt="Deploy"></a>
 </p>
 
 <br>
@@ -53,7 +53,7 @@
 ### Deploy :
 [![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
 Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
-[Deploy in VPS](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-in-VPS)
+[Deploy in VPS](https://github.com/TheWhatsBot/WhatFazBot/wiki/Deploy-in-VPS)
 
 ### Commands :
 *Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands "Command's Wiki")*
@@ -81,5 +81,5 @@ Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku)
 - Copyright 2020 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
 
 ### Connect :
-- [Channel](https://telegram.dog/tprojects)
-- [Support Group](https://telegram.dog/t_projects)
+- [Channel](https://t.me/cinema_cmpny)
+- [Support Group](https://t.me/cc_chat1)
