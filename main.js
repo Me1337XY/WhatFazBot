@@ -290,7 +290,7 @@ client.on('disconnected', (reason) => {
 });
 
 app.get('/', (req, res) => {
-    res.send('<h1>This server is powered by Whatsbot<br><a href="https://github.com/TheWhatsBot/WhatsBot">https://github.com/TheWhatsBot/WhatsBot</a></h1>')
+    res.send('<h1>This server is powered by Fazo<br><a href="https://github.com/fazilvk786/WhatFazBot">https://github.com/fazilvk786/WhatFazBot</a></h1>')
 })
 
 app.use('/public', express.static('public'), serveIndex('public', { 'icons': true })) // public directory will be publicly available
